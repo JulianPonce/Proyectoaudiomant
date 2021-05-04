@@ -49,25 +49,25 @@ background-color:black;
 
 .titulomain{
 	color:#D5D38B; 
-	padding-top:20px;
+	padding-top:80px;
+	padding-bottom: 40px;
 	text-align: center;
 	letter-spacing: 30px;
 	font-size: 40px;
 }
+
 section .cuerpo{
 	padding-top: 80px;
 	margin:auto;
 
 }
 
+.main .card{
+	margin-top: 30px,
+}
 
 
 
-.cuerpo div a {
-	font-size: 22px;
-	text-decoration: none;
-	letter-spacing: 8px
-    
 }
 
 .main{
