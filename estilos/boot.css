@@ -49,7 +49,7 @@ background-color:black;
 
 .titulomain{
 	color:#D5D38B; 
-	padding-top:80px;
+	padding-top:100px;
 	padding-bottom: 40px;
 	text-align: center;
 	letter-spacing: 30px;
@@ -68,7 +68,7 @@ section .cuerpo{
 
 
 
-}
+
 
 .main{
 	margin-top: 120px;
@@ -76,7 +76,7 @@ section .cuerpo{
 }
 
  .cuerpo{
- 	margin-top: 80px;
+ 	margin-top: 60px;
  }
 
 section.carousel{
@@ -86,7 +86,11 @@ section.carousel{
     margin:auto;
 }
 
-
+.cuerpo a {
+	
+	letter-spacing: 8px;
+	font-size: 20px;
+}
 
 
 footer {
