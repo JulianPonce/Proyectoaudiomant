@@ -7,9 +7,9 @@ background-color:black;
 
 
 .banner{
-    height:450px;
-	background-image: url(../img/banner.jpg);
-   background-position: center;
+    height:500px;
+	background-image: url(../img/banner1.jpg);
+   background-position:bottom;
     background-size: cover;
   }
 
@@ -26,8 +26,16 @@ background-color:black;
   text-decoration: none;
   color: white;
 }
+.navbar{
+	border-bottom:solid 5px;
+	border-color: black;
+}
+.navbar img{
 
-
+	margin-left: 30px;
+	border:solid 5px;
+	border-color: black;
+}
 
 .titulomain{
 	color:#D5D38B; 
@@ -114,9 +122,7 @@ footer {
 }
 
 .mainseccion div {
-	
-	
-background: radial-gradient(circle, black 0%, rgba(54,55,107,1) 100%);
+	background: radial-gradient(circle, black 0%, rgba(54,55,107,1) 100%);
     margin-top:30px; 
     margin-bottom:30px;
 }
