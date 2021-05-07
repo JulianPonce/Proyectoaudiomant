@@ -7,7 +7,7 @@ background-color:black;
 
 
 .banner{
-    height:400px;
+    height:450px;
 	background-image: url(../img/banner.jpg);
    background-position: center;
     background-size: cover;
@@ -19,33 +19,15 @@ background-color:black;
 .menu a{
   
   text-decoration: none;
+  color: #A5C5C5;
+}
+.menu a:hover{
+  
+  text-decoration: none;
   color: white;
 }
 
 
-
-.h1{
-	letter-spacing:20px;
-	text-align: center;
-	padding-top: 85px ;
-	color: white;
-}
-  
-
-.audiomant{
-	font-size: 18px;
-	text-align: center;
-	padding-top: 200px ;
-	color: black;
-	
-}
-
-.audiomant .subtitulo{
-    background-color: gray;
-	background-position: bottom;
-    background-size: cover;
-	border:solid 3px;
-}
 
 .titulomain{
 	color:#D5D38B; 
@@ -116,10 +98,10 @@ footer {
 
 
 .menuconsolas{
-    height: 400px;
+    height: 450px;
 	background-image: url(../img/bannerconsola.jpg);
-    background-position: center;
-    background-size: cover;
+    background-position: all;
+    background-size:cover;
 }
 
 
@@ -171,10 +153,10 @@ background: radial-gradient(circle, black 0%, rgba(54,55,107,1) 100%);
 
 
 .menumic {
-    height: 400px;
+    height: 450px;
 	background-image: url(../img/micbanner.jpg);
-    background-position: top;
-    background-size: cover;
+    background-position: all;
+    background-size:all;
 }
 
 
@@ -194,10 +176,10 @@ background: radial-gradient(circle, black 0%, rgba(54,55,107,1) 100%);
 
 
 .secauris{
-    height: 400px;
+    height: 450px;
 	background-image: url(../img/aurisbanner.webp);
     background-position: center;
-    background-size: cover;
+    background-size:cover;
 }
 
 
