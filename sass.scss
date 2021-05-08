@@ -1,5 +1,3 @@
-
-
 body{
 background-color:black;
 
@@ -8,7 +6,7 @@ background-color:black;
 
 .banner{
     height:600px;
-	background-image: url(../img/banner1.jpg);
+	background-image: url(img/banner1.jpg);
     background-position:bottom;
     background-size: cover;
     border-bottom: solid 5px;
@@ -107,7 +105,7 @@ section.carousel{
 	color: transparent;
 	text-shadow: -5px -5px #A5C5C5;
 }
-}
+
 
 footer {
 	margin-top: 150px;
@@ -133,7 +131,7 @@ footer {
 
 .menuconsolas{
     height: 450px;
-	background-image: url(../img/bannerconsola.jpg);
+	background-image: url(img/bannerconsola.jpg);
     background-position: all;
     background-size:cover;
     border-bottom: solid 5px;
@@ -188,7 +186,7 @@ footer {
 
 .menumic {
     height: 426px;
-	background-image: url(../img/micbanner.jpg);
+	background-image: url(img/micbanner.jpg);
     background-position: all;
     background-size:all;
     border-bottom: solid 5px;
@@ -214,7 +212,7 @@ footer {
 
 .secauris{
     height: 450px;
-	background-image: url(../img/aurisbanner.webp);
+	background-image: url(img/aurisbanner.webp);
     background-position: center;
     background-size:cover;
     border-bottom: solid 5px;
@@ -282,3 +280,36 @@ color: white;
 h3{
 	color: white;
 }
+
+
+
+.foo{
+	  
+	  background-color: #1B2631 ;
+}
+
+.foo .Sobrenosotros{
+            font-family:Helvetica;
+            color: white;
+            margin-left: 10px;
+            letter-spacing: 3px; 
+            font-size: 22px;
+}
+
+
+.foo .Sobrenosotrosp{
+            font-family:Helvetica;
+            color: white;
+            margin-left: 10px;
+            letter-spacing: 3px;
+            font-size: 18px;
+}
+
+form  {
+display: block;
+}
+
+.redes{
+	margin-top: 40px;
+}
+
