@@ -4,7 +4,9 @@
 	font-size: 30px;
 	 letter-spacing: 15px;
 }
-
+.cuerpo a{
+	font-size: 14px;
+}
 .h1auris h1{
 	font-size: 35px;
     letter-spacing: 15px;
@@ -25,7 +27,9 @@
 
 
 @media(max-width: 768px){
-
+.cuerpo a{
+	font-size: 10px;
+}
 .titulomain h2{
 	font-size: 20px;
 	 letter-spacing: 11px;
