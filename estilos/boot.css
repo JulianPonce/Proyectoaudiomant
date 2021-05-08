@@ -132,6 +132,8 @@ footer {
 	background-image: url(../img/bannerconsola.jpg);
     background-position: all;
     background-size:cover;
+    border-bottom: solid 5px;
+    border-color:#A5C5C5; 
 }
 
 
@@ -181,11 +183,14 @@ footer {
 
 
 .menumic {
-    height: 450px;
+    height: 426px;
 	background-image: url(../img/micbanner.jpg);
     background-position: all;
     background-size:all;
+    border-bottom: solid 5px;
+    border-color:#A5C5C5; 
 }
+
 
 
 
@@ -208,6 +213,8 @@ footer {
 	background-image: url(../img/aurisbanner.webp);
     background-position: center;
     background-size:cover;
+    border-bottom: solid 5px;
+    border-color:#A5C5C5; 
 }
 
 
