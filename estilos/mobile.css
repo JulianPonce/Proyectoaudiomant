@@ -1,5 +1,7 @@
 @media(max-width: 991px){
-
+.datos{
+	display: inline-block;
+}
 .titulomain h2{
 	font-size: 30px;
 	 letter-spacing: 15px;
@@ -27,6 +29,10 @@
 
 
 @media(max-width: 768px){
+.datos{
+	display: inline-block;
+}
+
 .cuerpo a{
 	font-size: 10px;
 }

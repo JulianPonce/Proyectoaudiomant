@@ -189,16 +189,21 @@ h3 {
   letter-spacing: 3px;
   font-size: 18px; }
 
-.comentario {
+.datos div p {
+  color: white; }
+
+.datos {
+  display: flex;
   flex-direction: rows;
-  align-items: flex-end; }
+  justify-content: space-evenly; }
 
 .item {
+  flex-direction: rows;
   display: flex;
   align-items: flex-end; }
 
 .redes {
-  margin-top: 40px;
+  margin-top: 100px;
   display: flex;
   justify-content: space-evenly; }
 
@@ -209,8 +214,15 @@ h3 {
   text-decoration: none;
   color: #A5C5C5; }
 
+.form {
+  margin-left: 20px;
+  display: inline-bock; }
+
+.form p {
+  color: white; }
+
 .iniciofinal {
-  margin-top: 100px;
+  margin-top: 50px;
   display: inline-block; }
 
 /*# sourceMappingURL=estilos.css.map */

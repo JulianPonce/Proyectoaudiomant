@@ -305,22 +305,29 @@ h3{
             font-size: 18px;
 }
 
-.comentario  {
-   
-   flex-direction:rows;
-   align-items:flex-end;
-   
-   
+.datos div p{
+          color: white;
+          
 }
+
+.datos{
+display: flex;
+flex-direction:rows;
+justify-content:space-evenly;
+}
+
+
+
 .item{
+	 flex-direction:rows;
 	 display: flex;
      align-items:flex-end;
 }
 
 
 .redes{
-	margin-top: 40px;
-     display:flex;
+	margin-top: 100px;
+     display: flex;
     justify-content:space-evenly;
     
 }
@@ -333,8 +340,17 @@ h3{
   color: #A5C5C5;
 }
 
+.form{
+	margin-left: 20px; 
+	display: inline-bock;
+
+}
+
+.form p {
+	color: white;
+}
 
 .iniciofinal{
-	margin-top: 100px;
+	margin-top: 50px;
 	display: inline-block;
 }
