@@ -175,25 +175,32 @@ h3 {
 .foo {
   background-color: #1B2631; }
 
-.foo .Sobrenosotros {
+.Sobrenosotros {
   font-family: Helvetica;
   color: white;
   margin-left: 10px;
   letter-spacing: 3px;
   font-size: 22px; }
 
-.foo .Sobrenosotrosp {
+.Sobrenosotrosp {
   font-family: Helvetica;
   color: white;
   margin-left: 10px;
   letter-spacing: 3px;
   font-size: 18px; }
 
-form {
-  display: block; }
+.comentario {
+  flex-direction: rows;
+  align-items: flex-end; }
+
+.item {
+  display: flex;
+  align-items: flex-end; }
 
 .redes {
-  margin-top: 40px; }
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-evenly; }
 
 .seguinos {
   font-family: helvetica;
@@ -201,5 +208,9 @@ form {
   letter-spacing: 3px;
   text-decoration: none;
   color: #A5C5C5; }
+
+.iniciofinal {
+  margin-top: 100px;
+  display: inline-block; }
 
 /*# sourceMappingURL=estilos.css.map */
