@@ -2,8 +2,8 @@
 .datos{
 	display: inline-block;
 }
-.titulomain h2{
-	font-size: 30px;
+.titulomain h1{
+	font-size: 22px;
 	 letter-spacing: 15px;
 }
 .cuerpo a{
@@ -29,6 +29,7 @@
 
 
 @media(max-width: 768px){
+
 .datos{
 	display: inline-block;
 }
@@ -36,7 +37,8 @@
 .cuerpo a{
 	font-size: 10px;
 }
-.titulomain h2{
+
+.titulomain h1{
 	font-size: 20px;
 	 letter-spacing: 11px;
 }
