@@ -17,8 +17,8 @@ background-color:black;
 
 
 .menu a{
-  font-family: helvetica;
-  font-size: 18px;
+  font-family: 'Nova Flat', cursive;
+  font-size: 20px;
   letter-spacing: 3px;
   text-decoration: none;
   color: #A5C5C5;
@@ -56,6 +56,7 @@ background-color:black;
 }
 
 .titulomain{
+	font-family: 'Sigmar One', cursive;
 	color:#D5D38B; 
 	padding-top:100px;
 	padding-bottom: 40px;
@@ -162,8 +163,8 @@ footer {
 
 
 .mainseccion p{
+    font-family: 'Staatliches', cursive;
     color: white;
-    
     letter-spacing: 5px;
     word-spacing: 5px;
 	font-size: 20px;
@@ -196,18 +197,6 @@ footer {
 
 
 
-.h1mic{
-	
-	color:#D5D38B; 
-	padding-top: 40px;
-	text-align: center;
-	letter-spacing: 30px;
-	font-size: 40px;
-}
-
-
-
-
 
 
 .secauris{
@@ -220,13 +209,7 @@ footer {
 }
 
 
-.h1auris{
-	color:#D5D38B; 
-	margin-top: 30px;
-	text-align: center;
-	letter-spacing: 30px;
-	font-size: 40px;
-}
+
 
 .container{
 	border:solid 3px;
@@ -266,10 +249,7 @@ footer {
 }
 
 
-.h2con{
 
-color: white;
-}
 
 .form{
 	margin: 0;
@@ -289,7 +269,7 @@ h3{
 }
 
 .Sobrenosotros{
-            font-family:Helvetica;
+           font-family: 'Staatliches', cursive;
             color: white;
             margin-left: 10px;
             letter-spacing: 3px; 
@@ -298,16 +278,18 @@ h3{
 
 
  .Sobrenosotrosp{
-            font-family:Helvetica;
+            font-family: 'Overpass Mono', monospace;
             color: white;
             margin-left: 10px;
             letter-spacing: 3px;
-            font-size: 18px;
+            font-size: 22px;
 }
 
 .datos div p{
+         font-family: 'Staatliches', cursive;
           color: white;
-          
+          font-size: 20px;
+          letter-spacing: 3px;
 }
 
 .datos{
@@ -358,4 +340,31 @@ justify-content:space-evenly;
 	text-align: center;
 	font-family: arial;
 	color: gray;
+}
+
+
+.fab{
+	font-size: 50px;
+}
+
+button .fas{
+	text-align: center;
+	font-size: 45px;
+
+}
+
+.info{
+	font-family: 'Roboto', sans-serif;
+}
+
+
+p .far {
+
+
+	font-size: 35px;
+}
+
+p .fas {
+
+	font-size: 35px;
 }

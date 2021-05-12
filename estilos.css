@@ -10,8 +10,8 @@ body {
   border-color: #A5C5C5; }
 
 .menu a {
-  font-family: helvetica;
-  font-size: 18px;
+  font-family: 'Nova Flat', cursive;
+  font-size: 20px;
   letter-spacing: 3px;
   text-decoration: none;
   color: #A5C5C5; }
@@ -33,6 +33,7 @@ body {
   border-color: black; }
 
 .titulomain {
+  font-family: 'Sigmar One', cursive;
   color: #D5D38B;
   padding-top: 100px;
   padding-bottom: 40px;
@@ -105,6 +106,7 @@ footer {
   letter-spacing: 8px; }
 
 .mainseccion p {
+  font-family: 'Staatliches', cursive;
   color: white;
   letter-spacing: 5px;
   word-spacing: 5px;
@@ -118,13 +120,6 @@ footer {
   border-bottom: solid 5px;
   border-color: #A5C5C5; }
 
-.h1mic {
-  color: #D5D38B;
-  padding-top: 40px;
-  text-align: center;
-  letter-spacing: 30px;
-  font-size: 40px; }
-
 .secauris {
   height: 450px;
   background-image: url(img/aurisbanner.webp);
@@ -132,13 +127,6 @@ footer {
   background-size: cover;
   border-bottom: solid 5px;
   border-color: #A5C5C5; }
-
-.h1auris {
-  color: #D5D38B;
-  margin-top: 30px;
-  text-align: center;
-  letter-spacing: 30px;
-  font-size: 40px; }
 
 .container {
   border: solid 3px;
@@ -162,9 +150,6 @@ footer {
   margin: 0;
   padding-top: 200px; }
 
-.h2con {
-  color: white; }
-
 .form {
   margin: 0;
   padding-top: 100px; }
@@ -176,21 +161,24 @@ h3 {
   background-color: #1B2631; }
 
 .Sobrenosotros {
-  font-family: Helvetica;
+  font-family: 'Staatliches', cursive;
   color: white;
   margin-left: 10px;
   letter-spacing: 3px;
   font-size: 22px; }
 
 .Sobrenosotrosp {
-  font-family: Helvetica;
+  font-family: 'Overpass Mono', monospace;
   color: white;
   margin-left: 10px;
   letter-spacing: 3px;
-  font-size: 18px; }
+  font-size: 22px; }
 
 .datos div p {
-  color: white; }
+  font-family: 'Staatliches', cursive;
+  color: white;
+  font-size: 20px;
+  letter-spacing: 3px; }
 
 .datos {
   display: flex;
@@ -217,10 +205,6 @@ h3 {
 .email {
   color: white; }
 
-.iniciofinal {
-  margin-top: 50px;
-  display: inline-block; }
-
 .contacto {
   margin-top: 100px; }
 
@@ -228,5 +212,21 @@ h3 {
   text-align: center;
   font-family: arial;
   color: gray; }
+
+.fab {
+  font-size: 50px; }
+
+button .fas {
+  text-align: center;
+  font-size: 45px; }
+
+.info {
+  font-family: 'Roboto', sans-serif; }
+
+p .far {
+  font-size: 35px; }
+
+p .fas {
+  font-size: 35px; }
 
 /*# sourceMappingURL=estilos.css.map */
