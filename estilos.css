@@ -177,7 +177,7 @@ h3 {
 .datos div p {
   font-family: 'Staatliches', cursive;
   color: white;
-  font-size: 20px;
+  font-size: 18px;
   letter-spacing: 3px; }
 
 .datos {
@@ -191,7 +191,7 @@ h3 {
   align-items: flex-end; }
 
 .redes {
-  margin-top: 100px;
+  margin-top: 15px;
   display: flex;
   justify-content: space-evenly; }
 
