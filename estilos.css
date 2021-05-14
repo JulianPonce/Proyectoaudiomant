@@ -150,11 +150,6 @@ footer {
   margin: 0;
   padding-top: 200px; }
 
-.marcas {
-  margin: auto;
-  margin-top: 100px;
-  border: solid 6px; }
-
 .marcash2 {
   font-family: 'Staatliches', cursive;
   color: white;
@@ -164,10 +159,18 @@ footer {
   text-shadow: 5px 5px black;
   color: white; }
 
+.marcas {
+  margin-top: 100px;
+  border: solid 6px; }
+
 .imgmarcas {
-  margin: auto;
-  margin-top: 50px;
-  margin-bottom: 50px; }
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 80px;
+  margin-top: 50px; }
+
+.imgmarcas img {
+  justify-items: space-around; }
 
 .form {
   margin: 0;
