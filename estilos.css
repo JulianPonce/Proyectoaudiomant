@@ -154,18 +154,18 @@ footer {
   margin: 0;
   padding-top: 100px; }
 
-h3 {
-  color: white; }
-
 .foo {
   background-color: #1B2631; }
 
 .Sobrenosotros {
   font-family: 'Staatliches', cursive;
   color: white;
-  margin-left: 10px;
-  letter-spacing: 3px;
-  font-size: 22px; }
+  margin: auto;
+  text-align: center;
+  letter-spacing: 5px;
+  font-size: 25px;
+  text-shadow: 5px 5px black;
+  color: white; }
 
 .Sobrenosotrosp {
   font-family: 'Overpass Mono', monospace;
@@ -210,8 +210,9 @@ h3 {
 
 .h3contacto {
   text-align: center;
-  font-family: arial;
-  color: gray; }
+  font-family: 'Staatliches', cursive;
+  color: gray;
+  letter-spacing: 3px; }
 
 .fab {
   font-size: 50px; }

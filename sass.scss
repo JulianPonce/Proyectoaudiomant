@@ -257,9 +257,7 @@ footer {
 }
 
 
-h3{
-	color: white;
-}
+
 
 
 
@@ -271,9 +269,13 @@ h3{
 .Sobrenosotros{
            font-family: 'Staatliches', cursive;
             color: white;
-            margin-left: 10px;
-            letter-spacing: 3px; 
-            font-size: 22px;
+            
+            margin: auto;
+            text-align: center;
+            letter-spacing: 5px; 
+            font-size: 25px;
+            text-shadow: 5px 5px black;
+            color: white;
 }
 
 
@@ -338,8 +340,9 @@ justify-content:space-evenly;
 
 .h3contacto{
 	text-align: center;
-	font-family: arial;
+	 font-family: 'Staatliches', cursive;
 	color: gray;
+	letter-spacing: 3px;
 }
 
 
