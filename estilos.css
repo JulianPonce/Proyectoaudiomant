@@ -62,7 +62,7 @@ section.carousel {
   margin: auto; }
 
 .cuerpo a {
-  font-family: century gothic;
+  font-family: 'Nova Flat', cursive;
   letter-spacing: 8px;
   font-size: 20px;
   color: #A5C5C5;
@@ -160,6 +160,7 @@ footer {
   color: white; }
 
 .marcas {
+  background-color: trasparent;
   margin-top: 100px;
   border: solid 6px; }
 
