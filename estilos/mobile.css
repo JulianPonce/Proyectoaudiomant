@@ -13,6 +13,13 @@
 	font-size: 14px;
 }
 
+
+.imgmarcas img {
+             display: inline-block;
+
+}
+
+
 }
 
 
@@ -28,10 +35,35 @@
 
 .cuerpo a{
 	font-size: 10px;
+	letter-spacing: 3px;
 }
 
 .titulomain h1{
 	font-size: 20px;
-	 letter-spacing: 11px;
+	 letter-spacing: 4px;
 }
+
+
+
+}
+
+
+
+@media(max-width: 568px){
+
+.imgmarcas  {
+              display: block;
+				align-items: center;
+				justify-content: center;
+}
+
+.marcas{
+          display: block;
+          align-items: vertical;
+
+
+
+}
+
+
 }
