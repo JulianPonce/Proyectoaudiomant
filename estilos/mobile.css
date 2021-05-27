@@ -43,7 +43,10 @@
 	 letter-spacing: 4px;
 }
 
-
+.mainseccion .img-fluid{
+	width: "100";
+	height:"100";
+}
 
 }
 
@@ -62,9 +65,11 @@
           align-items: vertical;
           align-content: center;
 
-
-
-
+}
+.mainseccion .img-fluid{
+	width: 250px;
+	height:250px;
+	align-content: center;
 }
 
 
