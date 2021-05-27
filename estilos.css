@@ -118,6 +118,12 @@ footer {
   letter-spacing: 4px;
   font-size: 15px; }
 
+.badge {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  letter-spacing: 4px;
+  font-size: 18px; }
+
 .menumic {
   height: 426px;
   background-image: url(img/micbanner.jpg);
