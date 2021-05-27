@@ -112,6 +112,12 @@ footer {
   word-spacing: 5px;
   font-size: 20px; }
 
+.mainseccion a {
+  font-family: 'Staatliches', cursive;
+  color: white;
+  letter-spacing: 4px;
+  font-size: 15px; }
+
 .menumic {
   height: 426px;
   background-image: url(img/micbanner.jpg);
